@@ -8,7 +8,7 @@ import Spinner from './components/Spinner';
 
 
 import styled from '@emotion/styled';
-import Resultado from './components/Resultado';
+
 
 const Contenedor = styled.div`
   max-width: 600px;
