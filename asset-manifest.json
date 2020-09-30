@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Cotizador-Bitcoins/static/css/main.7b2a76e1.chunk.css",
-    "main.js": "/Cotizador-Bitcoins/static/js/main.c8df49aa.chunk.js",
-    "main.js.map": "/Cotizador-Bitcoins/static/js/main.c8df49aa.chunk.js.map",
-    "runtime-main.js": "/Cotizador-Bitcoins/static/js/runtime-main.cf175401.js",
-    "runtime-main.js.map": "/Cotizador-Bitcoins/static/js/runtime-main.cf175401.js.map",
-    "static/js/2.608add4d.chunk.js": "/Cotizador-Bitcoins/static/js/2.608add4d.chunk.js",
-    "static/js/2.608add4d.chunk.js.map": "/Cotizador-Bitcoins/static/js/2.608add4d.chunk.js.map",
-    "index.html": "/Cotizador-Bitcoins/index.html",
-    "precache-manifest.2def8f95f442a45b6a6024b2080fa6a4.js": "/Cotizador-Bitcoins/precache-manifest.2def8f95f442a45b6a6024b2080fa6a4.js",
-    "service-worker.js": "/Cotizador-Bitcoins/service-worker.js",
-    "static/css/main.7b2a76e1.chunk.css.map": "/Cotizador-Bitcoins/static/css/main.7b2a76e1.chunk.css.map",
-    "static/js/2.608add4d.chunk.js.LICENSE.txt": "/Cotizador-Bitcoins/static/js/2.608add4d.chunk.js.LICENSE.txt"
+    "main.css": "/Cotizador/static/css/main.7b2a76e1.chunk.css",
+    "main.js": "/Cotizador/static/js/main.6d2bce9e.chunk.js",
+    "main.js.map": "/Cotizador/static/js/main.6d2bce9e.chunk.js.map",
+    "runtime-main.js": "/Cotizador/static/js/runtime-main.1a2792fc.js",
+    "runtime-main.js.map": "/Cotizador/static/js/runtime-main.1a2792fc.js.map",
+    "static/js/2.608add4d.chunk.js": "/Cotizador/static/js/2.608add4d.chunk.js",
+    "static/js/2.608add4d.chunk.js.map": "/Cotizador/static/js/2.608add4d.chunk.js.map",
+    "index.html": "/Cotizador/index.html",
+    "precache-manifest.4a1eff625f6ffd2a2028a754bc42d4fc.js": "/Cotizador/precache-manifest.4a1eff625f6ffd2a2028a754bc42d4fc.js",
+    "service-worker.js": "/Cotizador/service-worker.js",
+    "static/css/main.7b2a76e1.chunk.css.map": "/Cotizador/static/css/main.7b2a76e1.chunk.css.map",
+    "static/js/2.608add4d.chunk.js.LICENSE.txt": "/Cotizador/static/js/2.608add4d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cf175401.js",
+    "static/js/runtime-main.1a2792fc.js",
     "static/js/2.608add4d.chunk.js",
     "static/css/main.7b2a76e1.chunk.css",
-    "static/js/main.c8df49aa.chunk.js"
+    "static/js/main.6d2bce9e.chunk.js"
   ]
 }
